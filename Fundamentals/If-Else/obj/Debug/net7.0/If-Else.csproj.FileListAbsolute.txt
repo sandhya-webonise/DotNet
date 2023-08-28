@@ -1,0 +1,14 @@
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/bin/Debug/net7.0/If-Else
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/bin/Debug/net7.0/If-Else.deps.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/bin/Debug/net7.0/If-Else.runtimeconfig.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/bin/Debug/net7.0/If-Else.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/bin/Debug/net7.0/If-Else.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.AssemblyInfoInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.AssemblyInfo.cs
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.csproj.CoreCompileInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/refint/If-Else.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/If-Else.genruntimeconfig.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/If-Else/obj/Debug/net7.0/ref/If-Else.dll

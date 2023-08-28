@@ -1,0 +1,14 @@
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.AssemblyInfoInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.AssemblyInfo.cs
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.csproj.CoreCompileInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/bin/Debug/net7.0/Branches&Loops
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/bin/Debug/net7.0/Branches&Loops.deps.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/bin/Debug/net7.0/Branches&Loops.runtimeconfig.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/bin/Debug/net7.0/Branches&Loops.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/bin/Debug/net7.0/Branches&Loops.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/refint/Branches&Loops.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/Branches&Loops.genruntimeconfig.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Branches&Loops/obj/Debug/net7.0/ref/Branches&Loops.dll

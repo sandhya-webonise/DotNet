@@ -1,0 +1,14 @@
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/bin/Debug/net7.0/Numbers
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/bin/Debug/net7.0/Numbers.deps.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/bin/Debug/net7.0/Numbers.runtimeconfig.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/bin/Debug/net7.0/Numbers.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/bin/Debug/net7.0/Numbers.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfoInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfo.cs
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.csproj.CoreCompileInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/refint/Numbers.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/Numbers.genruntimeconfig.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Numbers/obj/Debug/net7.0/ref/Numbers.dll
