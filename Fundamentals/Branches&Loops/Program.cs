@@ -1,9 +1,11 @@
 ﻿using System;
-namespace BranchesAndLoops
+// Importing Other Libraries that we may want to use 
+//System.console can also be used instead of using it
+namespace BranchesAndLoops // To Group and Organize code if we have multiple classes
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // 1st Method as the entry method to tell from here it starts
         {
             //While loop
             int a = 6;

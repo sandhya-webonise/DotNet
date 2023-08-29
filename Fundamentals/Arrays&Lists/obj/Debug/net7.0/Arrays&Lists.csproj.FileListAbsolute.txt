@@ -1,0 +1,14 @@
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.AssemblyInfoInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.AssemblyInfo.cs
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.csproj.CoreCompileInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/bin/Debug/net7.0/Arrays&Lists
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/bin/Debug/net7.0/Arrays&Lists.deps.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/bin/Debug/net7.0/Arrays&Lists.runtimeconfig.json
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/bin/Debug/net7.0/Arrays&Lists.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/bin/Debug/net7.0/Arrays&Lists.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/refint/Arrays&Lists.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/Arrays&Lists.genruntimeconfig.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Fundamentals/Arrays&Lists/obj/Debug/net7.0/ref/Arrays&Lists.dll
