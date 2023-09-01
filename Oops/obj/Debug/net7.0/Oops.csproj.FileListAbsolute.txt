@@ -1,0 +1,14 @@
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/bin/Debug/net7.0/Oops
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/bin/Debug/net7.0/Oops.deps.json
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/bin/Debug/net7.0/Oops.runtimeconfig.json
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/bin/Debug/net7.0/Oops.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/bin/Debug/net7.0/Oops.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.AssemblyInfoInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.AssemblyInfo.cs
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.csproj.CoreCompileInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/refint/Oops.dll
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/Oops.genruntimeconfig.cache
+/home/sandhyaparvatapuram/Documents/DotNet/Oops/obj/Debug/net7.0/ref/Oops.dll
