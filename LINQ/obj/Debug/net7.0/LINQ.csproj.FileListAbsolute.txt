@@ -1,0 +1,14 @@
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/bin/Debug/net7.0/LINQ
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/bin/Debug/net7.0/LINQ.deps.json
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/bin/Debug/net7.0/LINQ.runtimeconfig.json
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/bin/Debug/net7.0/LINQ.dll
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/bin/Debug/net7.0/LINQ.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.AssemblyInfoInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.AssemblyInfo.cs
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.csproj.CoreCompileInputs.cache
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.dll
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/refint/LINQ.dll
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.pdb
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/LINQ.genruntimeconfig.cache
+/home/sandhyaparvatapuram/Documents/DotNet/LINQ/obj/Debug/net7.0/ref/LINQ.dll
