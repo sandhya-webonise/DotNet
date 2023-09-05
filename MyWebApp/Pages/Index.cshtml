@@ -1,0 +1,14 @@
+﻿@page
+@using MyWebApp.Components;
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1>Products</h1>
+    <p>Learn about the Products</p>
+</div>
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+<script src="_framework/blazor.server.js"></script>
